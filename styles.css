@@ -1,0 +1,19 @@
+html {
+    color: white;
+    background-color: rgb(31, 31, 117);
+    font-family: arial, sans-serif;
+}
+
+a {
+    color: grey;
+}
+
+h1, h2 {
+    color:rgb(199, 199, 255);
+    font-family: Helvetica, sans-serif
+}
+
+.example-image {
+    height: auto;
+    width: 300px;
+}
